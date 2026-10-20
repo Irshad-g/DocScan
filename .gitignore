@@ -1,0 +1,8 @@
+.env
+local.properties
+.android-sdk/
+.gradle/
+build/
+app/build/
+*.apk
+.DS_Store
