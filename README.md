@@ -4,6 +4,10 @@ A simple, fully offline document scanner for Android, in the spirit of Adobe Sca
 
 **Scan → auto-detect page → fix skew → clean, high-contrast result → PDF → share anywhere.**
 
+<p>
+  <img src="docs/detecting.jpg" width="260" alt="Camera finds the page outline and waits: Hold steady">
+</p>
+
 ## Build the APK
 
 Easiest, one command (macOS/Linux, needs Java 17–22 and internet on the first run):
