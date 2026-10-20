@@ -1,6 +1,6 @@
 # DocScan
 
-A simple, fully offline document scanner for Android, in the spirit of Adobe Scan.
+A simple, fully offline document scanner for Android. An better and open source alternative to Adobe Scan.
 
 **Scan → auto-detect page → fix skew → clean, high-contrast result → PDF → share anywhere.**
 
